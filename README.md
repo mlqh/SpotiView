@@ -1,0 +1,2 @@
+# SpotiView
+Better Spotify Stats
